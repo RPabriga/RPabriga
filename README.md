@@ -35,7 +35,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css,java,lua,python" />
+<img src="https://skillicons.dev/icons?i=js,html,css,java,lua,python,mysql" />
 </p>
 
 ### 🎮 Game Development & Creative Tools
