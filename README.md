@@ -27,6 +27,7 @@
 ## 📫 Contact me at:
 
   * 📧 reeceypun@gmail.com
+  * 💼 [LinkedIn](https://www.linkedin.com/in/reece-patrick-p-pabriga-203ba5445/)
 
 
 
